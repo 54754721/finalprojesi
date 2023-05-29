@@ -1,4 +1,4 @@
-    """Main.py için;
+"""Main.py için;
 • İlgili yerlerde try/except kullanılmalıdır.
 • Sadece insan sınıfı için 2 nesne üretilmelidir ve bilgiler __str__ metotu aracılığıyla yazdırılmalıdır.
 • İşsiz sınıfı için 3 nesne üretilmelidir ve __str__ metotu ile ilgili bilgiler ekrana yazdırılmalıdır.
