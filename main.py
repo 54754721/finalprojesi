@@ -87,3 +87,8 @@ def main():
     #Var olan DataFrame’den ad, soyad, sektör ve yeni maaşı içeren yeni bir DataFrame elde ediniz ve yazdırınız.
     print(df[["adlar","soyadlar","sektorler","yenimaaslar"]])
     print("-"*50) #50 tane -
+
+if __name__ == "__main__":
+    main()
+
+    
